@@ -20,27 +20,28 @@ export default function Home({ blogs, topics }) {
   return (
     <>
       <Head>
-        <title>Bits-0f-C0de 🚀</title>
+        <title>Dive to DevOps 🚀</title>
         <meta name="title" content="Bits-0f-C0de 🚀" />
         <meta
           name="description"
-          content="Tech blogs and articles on various topics related to Software Development"
+          content="Tech blogs and articles about my projects and solutions wich can be useful to others"
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://blogs.soumya-jit.tech/" />
-        <meta property="og:title" content="Bits-0f-C0de 🚀" />
+        <meta property="og:url" content="https://devopsdive.com/" />
+        <meta property="og:title" content="DevOpsDive 🚀" />
         <meta
           property="og:description"
-          content="Tech blogs and articles on various topics related to Software Development"
+          content="Tech blogs and articles about my projects and solutions wich can be useful to other"
         />
         <meta
           property="og:image"
+          // add mine link and pic
           content="https://raw.githubusercontent.com/soumyajit4419/Bits-0f-C0de/main/Extra/sc.png"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://blogs.soumya-jit.tech/" />
+        <meta property="twitter:url" content="https://blogs.devopsdive.com/" />
         <meta property="twitter:title" content="Bits-0f-C0de 🚀" />
         <meta
           property="twitter:description"

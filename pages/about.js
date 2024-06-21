@@ -21,17 +21,16 @@ function about({ topics }) {
           <img src="/about.png" className="h-64" />
         </div>
         <h2 className="text-3xl font-semibold text-gray-700 py-4 dark:text-gray-200">
-          Hi,{" "}
+          Hi, I’m{" "}
           <span className="bg-indigo-400 text-white rounded px-1 dark:bg-indigo-500">
-            I’m Soumyajit
+             Oleksii.
           </span>{" "}
-          . Nice to meet you.
+           Nice to meet you!
         </h2>
         <p className="text-gray-600 mt-4 dark:text-indigo-200">
-          I am a self taught developer currently pursuing IMSC in Maths and
-          Computing in BIT Mesra. My field of Interest's are building new Web
-          Technologies and Products and also in areas related to Deep Learning
-          and Natural Launguage Processing.
+        Evolving in the field of DevOps and Site Reliability Engineering, I progressively advance towards my dream.
+        I successfully completed all the requirements to be recognized as a Google Cloud Certified Professional Cloud DevOps Engineer.
+        Apart from self-learning, some other activities that I love to do!
         </p>
 
         <div className="text-center pt-8">
@@ -40,7 +39,7 @@ function about({ topics }) {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://soumyajit.vercel.app/"
+              href="https://devopsdive.com/projects/"
             >
               See My Works
             </a>
@@ -52,7 +51,7 @@ function about({ topics }) {
               className="twitter-follow-button"
               rel="noopener noreferrer"
               target="_blank"
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/askoshelenko"
             >
               Follow Me
             </a>
